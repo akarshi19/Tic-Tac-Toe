@@ -9,7 +9,7 @@ To set up and run the Tic-Tac-Toe game in Android Studio, follow these steps:
 
 1. Clone the repository to your local machine or download the source code files.    
 Copy code:
-git clone 
+git clone https://github.com/akarshi19/Tic-Tac-Toe.git 
 2. Open Android Studio and select "Open an existing Android Studio project."    
 
 3. Navigate to the directory where you cloned/downloaded the repository and select it.    
